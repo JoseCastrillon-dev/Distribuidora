@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Front/">
+    <Project Path="FrontEnd/FrontEnd.csproj" />
+    <Project Path="LibPresentacion/LibPresentacion.csproj" />
+  </Folder>
+  <Folder Name="/Nucleo/">
+    <Project Path="LibDominio/LibDominio.csproj" />
+  </Folder>
+  <Folder Name="/Servicios/">
+    <Project Path="Asp_Servicio/Asp_Servicio.csproj" />
+    <Project Path="LibAplicacion/LibAplicacion.csproj" />
+  </Folder>
+</Solution>

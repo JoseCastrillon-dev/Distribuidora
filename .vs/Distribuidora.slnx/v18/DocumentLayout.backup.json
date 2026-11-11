@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libaplicacion\\implementaciones\\carnesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|solutionrelative:libaplicacion\\implementaciones\\carnesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libaplicacion\\interfaces\\icarnesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|solutionrelative:libaplicacion\\interfaces\\icarnesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AFD152-03E0-4E11-9247-824A12803D37}|Asp_Servicio\\Asp_Servicio.csproj|c:\\users\\usuario\\desktop\\distribuidora\\asp_servicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AFD152-03E0-4E11-9247-824A12803D37}|Asp_Servicio\\Asp_Servicio.csproj|solutionrelative:asp_servicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libaplicacion\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|solutionrelative:libaplicacion\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libaplicacion\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|solutionrelative:libaplicacion\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8746617D-E301-42AD-9C8D-96B60F17D3EB}|LibPresentacion\\LibPresentacion.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libpresentacion\\interfaces\\icarnespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8746617D-E301-42AD-9C8D-96B60F17D3EB}|LibPresentacion\\LibPresentacion.csproj|solutionrelative:libpresentacion\\interfaces\\icarnespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D6FC1-59DE-47FC-9AB4-899FF0241CBD}|FrontEnd\\FrontEnd.csproj|c:\\users\\usuario\\desktop\\distribuidora\\frontend\\pages\\ventanas\\carnes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D85D6FC1-59DE-47FC-9AB4-899FF0241CBD}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\pages\\ventanas\\carnes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8746617D-E301-42AD-9C8D-96B60F17D3EB}|LibPresentacion\\LibPresentacion.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libpresentacion\\implementaciones\\carnespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8746617D-E301-42AD-9C8D-96B60F17D3EB}|LibPresentacion\\LibPresentacion.csproj|solutionrelative:libpresentacion\\implementaciones\\carnespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D6FC1-59DE-47FC-9AB4-899FF0241CBD}|FrontEnd\\FrontEnd.csproj|c:\\users\\usuario\\desktop\\distribuidora\\frontend\\pages\\ventanas\\carnes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85D6FC1-59DE-47FC-9AB4-899FF0241CBD}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\pages\\ventanas\\carnes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8746617D-E301-42AD-9C8D-96B60F17D3EB}|LibPresentacion\\LibPresentacion.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libpresentacion\\implementaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8746617D-E301-42AD-9C8D-96B60F17D3EB}|LibPresentacion\\LibPresentacion.csproj|solutionrelative:libpresentacion\\implementaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libaplicacion\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|solutionrelative:libaplicacion\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D6FC1-59DE-47FC-9AB4-899FF0241CBD}|FrontEnd\\FrontEnd.csproj|c:\\users\\usuario\\desktop\\distribuidora\\frontend\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D85D6FC1-59DE-47FC-9AB4-899FF0241CBD}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D6FC1-59DE-47FC-9AB4-899FF0241CBD}|FrontEnd\\FrontEnd.csproj|c:\\users\\usuario\\desktop\\distribuidora\\frontend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D85D6FC1-59DE-47FC-9AB4-899FF0241CBD}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85D6FC1-59DE-47FC-9AB4-899FF0241CBD}|FrontEnd\\FrontEnd.csproj|c:\\users\\usuario\\desktop\\distribuidora\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85D6FC1-59DE-47FC-9AB4-899FF0241CBD}|FrontEnd\\FrontEnd.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8746617D-E301-42AD-9C8D-96B60F17D3EB}|LibPresentacion\\LibPresentacion.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libpresentacion\\interfaces\\icomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8746617D-E301-42AD-9C8D-96B60F17D3EB}|LibPresentacion\\LibPresentacion.csproj|solutionrelative:libpresentacion\\interfaces\\icomunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AFD152-03E0-4E11-9247-824A12803D37}|Asp_Servicio\\Asp_Servicio.csproj|c:\\users\\usuario\\desktop\\distribuidora\\asp_servicio\\controllers\\carnescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AFD152-03E0-4E11-9247-824A12803D37}|Asp_Servicio\\Asp_Servicio.csproj|solutionrelative:asp_servicio\\controllers\\carnescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43320BCF-226C-4714-9EEF-E28859A70019}|LibDominio\\LibDominio.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libdominio\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43320BCF-226C-4714-9EEF-E28859A70019}|LibDominio\\LibDominio.csproj|solutionrelative:libdominio\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43320BCF-226C-4714-9EEF-E28859A70019}|LibDominio\\LibDominio.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libdominio\\entidades\\tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43320BCF-226C-4714-9EEF-E28859A70019}|LibDominio\\LibDominio.csproj|solutionrelative:libdominio\\entidades\\tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43320BCF-226C-4714-9EEF-E28859A70019}|LibDominio\\LibDominio.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libdominio\\entidades\\carnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43320BCF-226C-4714-9EEF-E28859A70019}|LibDominio\\LibDominio.csproj|solutionrelative:libdominio\\entidades\\carnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libaplicacion\\nucleo\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|solutionrelative:libaplicacion\\nucleo\\logconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|c:\\users\\usuario\\desktop\\distribuidora\\libaplicacion\\libaplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8641A14-7D28-4EB8-B6A6-D4D628E29D7D}|LibAplicacion\\LibAplicacion.csproj|solutionrelative:libaplicacion\\libaplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICarnesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibPresentacion\\interfaces\\ICarnesPresentacion.cs",
+              "RelativeDocumentMoniker": "LibPresentacion\\interfaces\\ICarnesPresentacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibPresentacion\\interfaces\\ICarnesPresentacion.cs",
+              "RelativeToolTip": "LibPresentacion\\interfaces\\ICarnesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:42:40.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarnesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\implementaciones\\CarnesAplicacion.cs",
+              "RelativeDocumentMoniker": "LibAplicacion\\implementaciones\\CarnesAplicacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\implementaciones\\CarnesAplicacion.cs*",
+              "RelativeToolTip": "LibAplicacion\\implementaciones\\CarnesAplicacion.cs*",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA/wFoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:26:02.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICarnesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\interfaces\\ICarnesAplicacion.cs",
+              "RelativeDocumentMoniker": "LibAplicacion\\interfaces\\ICarnesAplicacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\interfaces\\ICarnesAplicacion.cs",
+              "RelativeToolTip": "LibAplicacion\\interfaces\\ICarnesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:22:37.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carnes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\FrontEnd\\Pages\\Ventanas\\Carnes.cshtml",
+              "RelativeDocumentMoniker": "FrontEnd\\Pages\\Ventanas\\Carnes.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\FrontEnd\\Pages\\Ventanas\\Carnes.cshtml",
+              "RelativeToolTip": "FrontEnd\\Pages\\Ventanas\\Carnes.cshtml",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwIIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T20:53:13.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "LibAplicacion\\implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\implementaciones\\Conexion.cs",
+              "RelativeToolTip": "LibAplicacion\\implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:23:53.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Carnes.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\FrontEnd\\Pages\\Ventanas\\Carnes.cshtml.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\Pages\\Ventanas\\Carnes.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\FrontEnd\\Pages\\Ventanas\\Carnes.cshtml.cs",
+              "RelativeToolTip": "FrontEnd\\Pages\\Ventanas\\Carnes.cshtml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA0wDsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:50:05.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\Asp_Servicio\\Program.cs",
+              "RelativeDocumentMoniker": "Asp_Servicio\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\Asp_Servicio\\Program.cs",
+              "RelativeToolTip": "Asp_Servicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:29:12.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\interfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "LibAplicacion\\interfaces\\IConexion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\interfaces\\IConexion.cs",
+              "RelativeToolTip": "LibAplicacion\\interfaces\\IConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:20:51.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibPresentacion\\implementaciones\\Comunicaciones.cs",
+              "RelativeDocumentMoniker": "LibPresentacion\\implementaciones\\Comunicaciones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibPresentacion\\implementaciones\\Comunicaciones.cs",
+              "RelativeToolTip": "LibPresentacion\\implementaciones\\Comunicaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:43:19.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarnesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibPresentacion\\implementaciones\\CarnesPresentacion.cs",
+              "RelativeDocumentMoniker": "LibPresentacion\\implementaciones\\CarnesPresentacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibPresentacion\\implementaciones\\CarnesPresentacion.cs",
+              "RelativeToolTip": "LibPresentacion\\implementaciones\\CarnesPresentacion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:44:15.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "LibAplicacion\\nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "LibAplicacion\\nucleo\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:24:17.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\FrontEnd\\Program.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\FrontEnd\\Program.cs",
+              "RelativeToolTip": "FrontEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:47:20.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\FrontEnd\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontEnd\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\FrontEnd\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontEnd\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T20:59:13.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\FrontEnd\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FrontEnd\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\FrontEnd\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FrontEnd\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-11T21:00:26.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IComunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibPresentacion\\interfaces\\IComunicaciones.cs",
+              "RelativeDocumentMoniker": "LibPresentacion\\interfaces\\IComunicaciones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibPresentacion\\interfaces\\IComunicaciones.cs",
+              "RelativeToolTip": "LibPresentacion\\interfaces\\IComunicaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:42:28.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Carnes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibDominio\\Entidades\\Carnes.cs",
+              "RelativeDocumentMoniker": "LibDominio\\Entidades\\Carnes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibDominio\\Entidades\\Carnes.cs",
+              "RelativeToolTip": "LibDominio\\Entidades\\Carnes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:15:41.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Auditoria.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibDominio\\Entidades\\Auditoria.cs",
+              "RelativeDocumentMoniker": "LibDominio\\Entidades\\Auditoria.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibDominio\\Entidades\\Auditoria.cs",
+              "RelativeToolTip": "LibDominio\\Entidades\\Auditoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:16:30.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tipos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibDominio\\Entidades\\Tipos.cs",
+              "RelativeDocumentMoniker": "LibDominio\\Entidades\\Tipos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibDominio\\Entidades\\Tipos.cs",
+              "RelativeToolTip": "LibDominio\\Entidades\\Tipos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:16:15.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarnesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\Asp_Servicio\\Controllers\\CarnesController.cs",
+              "RelativeDocumentMoniker": "Asp_Servicio\\Controllers\\CarnesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\Asp_Servicio\\Controllers\\CarnesController.cs",
+              "RelativeToolTip": "Asp_Servicio\\Controllers\\CarnesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:29:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LogConversor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\nucleo\\LogConversor.cs",
+              "RelativeDocumentMoniker": "LibAplicacion\\nucleo\\LogConversor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\nucleo\\LogConversor.cs",
+              "RelativeToolTip": "LibAplicacion\\nucleo\\LogConversor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:24:24.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LibAplicacion",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\LibAplicacion.csproj",
+              "RelativeDocumentMoniker": "LibAplicacion\\LibAplicacion.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Distribuidora\\LibAplicacion\\LibAplicacion.csproj",
+              "RelativeToolTip": "LibAplicacion\\LibAplicacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T20:06:24.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

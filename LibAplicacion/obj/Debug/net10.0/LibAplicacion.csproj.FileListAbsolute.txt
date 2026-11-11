@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\bin\Debug\net10.0\LibAplicacion.deps.json
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\bin\Debug\net10.0\LibAplicacion.dll
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\bin\Debug\net10.0\LibAplicacion.pdb
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\bin\Debug\net10.0\LibDominio.dll
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\bin\Debug\net10.0\LibDominio.pdb
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\obj\Debug\net10.0\LibAplicacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\obj\Debug\net10.0\LibAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\obj\Debug\net10.0\LibAplicacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\obj\Debug\net10.0\LibAplicacion.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\obj\Debug\net10.0\LibAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\obj\Debug\net10.0\LibAplic.C0FB2823.Up2Date
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\obj\Debug\net10.0\LibAplicacion.dll
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\obj\Debug\net10.0\refint\LibAplicacion.dll
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\obj\Debug\net10.0\LibAplicacion.pdb
+C:\Users\Usuario\Desktop\Distribuidora\LibAplicacion\obj\Debug\net10.0\ref\LibAplicacion.dll

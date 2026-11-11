@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Asp_Servicio\\Asp_Servicio.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FrontEnd\\FrontEnd.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
